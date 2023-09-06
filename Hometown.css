@@ -1,0 +1,161 @@
+body {
+
+
+    margin: 0px 0px;
+            
+}
+
+.hero{
+    padding: 20px 20px;
+
+    background-image: url(pic/we.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+h1,h2{
+    background: #FFC857;
+}
+
+.hero-text{
+    text-align: center;
+    font-family:"Poppins";
+    font-size: 20px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    padding: 0px 20px;
+
+    
+    color: #323031;
+}
+
+#wcm {
+    padding: 6px 10px;
+    border-radius: 8px;
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
+
+#btm{
+    padding: 6px 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 150px;
+
+}
+
+
+
+.fun-fact{
+    padding: 20px 0px;
+    background-color: #323031;
+
+    text-align: center;
+    font-family: "poppins";
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#head{
+    font-size: 45px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    
+}
+
+.container{
+    display: flex;
+
+}
+.fun1{
+    background-color: #FFC857;
+    text-align: center;
+    margin: 45px 45px;
+    padding: 0px 20px;
+    border-radius: 20px;
+
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#hehe{
+    font-size:35px;
+    margin: 0;
+}
+
+#maps{
+    width: 450px;
+    height: 250px;
+    border-radius: 20px;
+    margin: 20px 20px;
+}
+
+#pantai{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    margin: 20px 20px;
+
+}
+.bg{
+    height: 300px;
+    margin: 0px;
+
+    
+}
+
+.card{
+    display: flex;
+    justify-content:space-between;
+    
+    background: #323031;
+    margin: 150px  auto;
+    padding: 10px 20px;
+
+    border-radius: 20px;
+    border-right: 4px solid #FFC857;
+    border-bottom: 4px solid #FFC857;
+
+
+    width: 750px;
+
+
+}
+
+
+.text-card{
+    margin: auto auto;
+    color: whitesmoke;
+
+    padding: 0px 50px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: self-start;
+
+}
+
+#head-card{
+    color: #323031;
+    margin: 0px;
+    
+    
+}
+
+
+
+#name{
+    margin:9px 0px;
+    margin-bottom:20px ;
+}
+
+#texting {
+    margin:0px;
+}
